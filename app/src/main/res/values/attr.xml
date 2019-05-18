@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="voisePlayingIconAttr">
+        <attr name="pointer_color" format="color" />
+        <attr name="pointer_num" format="integer" />
+        <attr name="pointer_width" format="float" />
+        <attr name="pointer_speed" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="RoundProgress">
+        <attr name="bgColor" format="color"/>
+        <attr name="roundColor" format="color"/>
+        <attr name="roundWidth" format="dimension"/>
+        <attr name="roundTextSize" format="dimension"/>
+        <attr name="roundTextColor" format="color"/>
+    </declare-styleable>
+</resources>
